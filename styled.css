@@ -1942,7 +1942,7 @@ ul.monet_ul li img {
   max-width: 100%;
   padding: 12px 20px;
   border-radius: 6px;
-  background-color: #f52159;
+  background-color: #004343FF;
   color: #fff;
   font-size: 16px;
   font-weight: 500;
@@ -1950,7 +1950,7 @@ ul.monet_ul li img {
 }
 
 .buy_btn:hover {
-  background-color: #f52159;
+  background-color: #004700FF;
   color: #fff;
   opacity: .9
 }
@@ -2055,7 +2055,7 @@ span.extra-span {
 }
 
 .tab_menu ul li.active a {
-  background-color: #004700FF;
+  background-color: #004343FF;
   color: #fff
 }
 
